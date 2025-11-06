@@ -209,7 +209,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Project Link: [https://github.com/brandy-build/enhanced-netcat](https://github.com/brandy-build/enhanced-netcat)
+Project Link: [https://github.com/brandy-build/nETCAT-Project](https://github.com/brandy-build/nETCAT-Project)
 
 ---
 
